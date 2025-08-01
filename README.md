@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning AI,ML
 - 😄 Pronouns: He/Him
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ranvoorsingh&label=Profile%20views&color=0e75b6&style=flat" alt="ranvoorsingh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ravnoorsingh&label=Profile%20views&color=0e75b6&style=flat" alt="ravnoorsingh" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ranvoorsingh&show_icons=true&theme=midnight-purple" alt="ranvoorsingh" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ravnoorsingh&show_icons=true&theme=midnight-purple" alt="ravnoorsingh" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranvoorsingh&layout=compact&theme=radical&show_icons=true" alt="ranvoorsingh" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravnoorsingh&layout=compact&theme=radical&show_icons=true" alt="ravnoorsingh" /></p>
